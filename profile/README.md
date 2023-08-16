@@ -17,9 +17,15 @@ Organização criada para a elaborar o Trabalho Final do curso **Terraform - Zer
 </div>
 
 ## Objetivos 🎯
-- 
+- Desenvolver 3 Projetos de Infraestrutura como Código (IaC) com Terraform em dois provedores de cloud computing (AWS e Azure), utilizando metodologias DevOps e Agile.
 
-## Metodologia 👩‍💻 
-- 
+## Metodologia 👩‍💻
+- Uso de sistema de controle de versão distribuído e ferramentas de colaboração em equipe - **Git** e **Github**  
+- Uso do Sistema **Kanban** para indicar e acompanhar o andamento das atividades do grupo
+- Uso de **Infrastructure as Code (IaC)** com **Terraform**
+- Uso de **Cloud Computing** com **AWS** e **Azure** 
+  
 <img src="https://github.com/Projeto-Terraform/.github/blob/main/kanban.png">
+
+## Repositórios📝
 
