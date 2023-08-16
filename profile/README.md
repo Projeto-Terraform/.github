@@ -1,5 +1,5 @@
 # Projeto Terraform
-Organização criada para a elaboração do Trabalho Final do curso **Terraform - Zero to Hero**.
+Organização criada para a elaborar o Trabalho Final do curso **Terraform - Zero to Hero**.
 ## Equipe 🙋‍♀️
 ### Integrantes:
 - [Danielle Lopes](https://github.com/danilopeslima)
@@ -16,5 +16,10 @@ Organização criada para a elaboração do Trabalho Final do curso **Terraform 
   <img src="https://github.com/Projeto-Terraform/.github/blob/main/gustavo-photo.png" height="150" width="150">
 </div>
 
-## Objetivos👩‍💻 
+## Objetivos 🎯
 - 
+
+## Metodologia 👩‍💻 
+- 
+<img src="https://github.com/Projeto-Terraform/.github/blob/main/kanban.png">
+
