@@ -9,11 +9,11 @@ Organização criada para a elaboração do Trabalho Final do curso **Terraform 
 - [Gustavo Dantas](https://github.com/Gustavo-Dantas22)
 
 <div>
-  <img src="https://github.com/Projeto-Terraform/.github/tree/daniL-photo.png" height="150" width="150">
-  <img src="https://github.com/Projeto-Terraform/.github/tree/daniP-photo.png" height="150" width="150">
-  <img src="https://github.com/Projeto-Terraform/.github/tree/marcia-photo.png" height="150" width="150">
-  <img src="https://github.com/Projeto-Terraform/.github/tree/paula-photo.jpg" height="150" width="150">
-  <img src="https://github.com/Projeto-Terraform/.github/tree/gustavo-photo.png" height="150" width="150">
+  <img src="https://github.com/Projeto-Terraform/.github/blob/main/daniL-photo.png" height="150" width="150">
+  <img src="https://github.com/Projeto-Terraform/.github/blob/main/daniP-photo.png" height="150" width="150">
+  <img src="https://github.com/Projeto-Terraform/.github/blob/main/marcia-photo.png" height="150" width="150">
+  <img src="https://github.com/Projeto-Terraform/.github/blob/main/paula-photo.jpg" height="150" width="150">
+  <img src="https://github.com/Projeto-Terraform/.github/blob/main/gustavo-photo.png" height="150" width="150">
 </div>
 
 ## Objetivos👩‍💻 
