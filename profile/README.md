@@ -27,4 +27,7 @@ Organização criada para a elaborar o Trabalho Final do curso **Terraform - Zer
   
 <img src="https://github.com/Projeto-Terraform/.github/blob/main/kanban.png">
 
+## Repositórios 
+
+<img src="https://github.com/Projeto-Terraform/.github/blob/main/repositorio.png">
 
