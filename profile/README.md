@@ -1,5 +1,5 @@
 # Projeto Terraform
-Organização criada para a elaborar o Trabalho Final do curso **Terraform - Zero to Hero**.
+Organização criada para elaborar o Trabalho Final do curso **Terraform - Zero to Hero**, ministrado pelo Prof. Fábio Silva, de 2 de maio a 27 de julho de 2023.
 ## Equipe 🙋‍♀️
 ### Integrantes:
 - [Danielle Lopes](https://github.com/danilopeslima)
@@ -31,3 +31,9 @@ Organização criada para a elaborar o Trabalho Final do curso **Terraform - Zer
 
 <img src="https://github.com/Projeto-Terraform/.github/blob/main/repositorio.png">
 
+## Algumas reflexões:
+
+- Como foi para o grupo realizar esse treinamento?
+- Quais foram os desafios? 
+- Como foram superados os obstáculos?
+- Como se organizaram para realizarem os trabalhos?
